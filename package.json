@@ -1,0 +1,15 @@
+{
+  "name": "ck1-03biguo",
+  "version": "1.0.0",
+  "description": "The project offers a variety of features including",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "niuzigegegaidabij-zongshihui98": "^1.0.0",
+    "niueizgegegai-rangniyangwei17": "^1.0.0"
+  }
+}
